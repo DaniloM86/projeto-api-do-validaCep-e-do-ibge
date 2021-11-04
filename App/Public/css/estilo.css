@@ -1,0 +1,44 @@
+
+.azul{
+    background: blue;
+    height: 120px;
+}
+
+.vermelho{
+    background: red;
+    height: 120px;
+}
+
+.verde{
+    background: green;
+    height: 280px;
+}
+
+div .banner{
+    height: 280px;
+}
+
+div .banner:hover{
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+    
+}
+
+.preto{
+    background: black;
+    height: 280px;
+}
+
+.roxo{
+    background: purple;
+    height: 280px;
+}
+
+.laranja{
+    background: orange;
+    height: 280px;
+}
+
+.amarelo{
+    background: yellow;
+    height: 280px;
+}
